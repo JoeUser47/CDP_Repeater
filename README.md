@@ -87,3 +87,15 @@ HISTORY_LIMIT = 500         # How many requests to keep in memory
   * **Stuck "Waiting for response...":**
       * If the target server keeps the connection open indefinitely (e.g., a long poll), the repeater might wait. You can use the "Copy cURL" feature to debug this in a terminal.
 
+## Screenshots
+
+<img width="1903" height="1358" alt="image" src="https://github.com/user-attachments/assets/78d855e2-8096-4fdc-bf73-e2eaa9aaf143" />
+
+
+<img width="1906" height="1363" alt="image" src="https://github.com/user-attachments/assets/ea614cbd-5e71-47c8-baa7-da14395a0121" />
+
+
+<img width="1908" height="1361" alt="image" src="https://github.com/user-attachments/assets/d112a165-ea4d-47ed-a7aa-198856aa91e4" />
+
+
+
